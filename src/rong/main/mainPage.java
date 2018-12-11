@@ -67,6 +67,8 @@ public final class mainPage {
 					goodsPage.addGoodsPage();
 					break;
 				}
+			} else {
+				System.out.println("输入有误！请重新输入！！");
 			}
 		}
 	}
